@@ -8,6 +8,7 @@ public class ReggieTakeOutApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ReggieTakeOutApplication.class, args);
+        System.out.println("Hello Spring");
     }
 
 }
